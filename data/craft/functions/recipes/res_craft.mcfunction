@@ -1,0 +1,1 @@
+execute if score @s craftID matches 1 run item replace block ~ ~ ~ container.15 with minecraft:netherite_pickaxe{display:{Name:'{"text":"Steel-Forged Netheraxe","color":"aqua","bold":true,"italic":true}'},HideFlags:7,Unbreakable:1b,CustomModelData:123001,netheraxe:"lb",Enchantments:[{id:"minecraft:efficiency",lvl:3s}]}
