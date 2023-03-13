@@ -1,0 +1,10 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/stone_hoe"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data": 3190001}, "model":"crafting/invisible"},
+		{ "predicate": {"custom_model_data": 3190002}, "model":"crafting/crafting_gui"}
+	]
+}

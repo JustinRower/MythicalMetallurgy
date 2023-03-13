@@ -1,0 +1,30 @@
+{
+	"credit": "Made by Stevertus",
+	"textures": {
+		"0": "crafting/crafting_gui",
+		"particle": "crafting/crafting_gui"
+	},
+	"elements": [
+		{
+			"from": [-16, 0, 0],
+			"to": [32, 21.494, 0],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 7.09063], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 8], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 7.08906], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 8], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"ground": {
+			"scale": [0.05, 0.05, 0.05]
+		},
+		"gui": {
+			"translation": [72.25, -20, 2.5],
+			"scale": [3.65, 3.65, 3.65]
+		}
+	}
+}
