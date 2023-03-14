@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#D#",
+        "gLg",
+        "#N#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:glowstone"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "g": {
+            "item": "minecraft:gold_ingot"
+        },
+        "L": {
+            "item": "minecraft:lapis_block"
+        },
+        "N": {
+            "item": "minecraft:netherite_scrap"
+        }
+    },
+    "result": {
+        "item": "minecraft:fire_charge",
+        "count": 1
+    }
+}

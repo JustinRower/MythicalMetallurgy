@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "award_copper": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "mythical:forge_catalyst"
+            }
+        }
+    },
+    "rewards": {
+        "function": "mythical:give_forge_cat"
+    }
+}
